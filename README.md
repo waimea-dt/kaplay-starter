@@ -2,7 +2,9 @@
 
 A starting point for making games with **JavaScript** and [Kaplay](https://kaplayjs.com).
 
-## How to run it
+The game can be [viewed and played here](https://waimea-dt.github.io/kaplay-starter/)
+
+## How to run it locally
 
 Your browser needs a tiny **web server** to load pictures and sounds - double-clicking `index.html` won't work.
 
